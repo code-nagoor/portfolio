@@ -1,0 +1,3 @@
+This directory is reserved for portfolio project images, screenshot assets, or custom profile photos.
+Supported formats: PNG, JPG, WebP, SVG.
+Ensure names match your references in index.html (or update index.html accordingly).
