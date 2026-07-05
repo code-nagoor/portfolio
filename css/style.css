@@ -372,7 +372,7 @@ textarea:focus-visible {
     height: 100%;
     background-color: rgba(30, 41, 59, 0.4);
     backdrop-filter: blur(4px);
-    z-index: 1000;
+    z-index: 999;
     opacity: 0;
     visibility: hidden;
     transition: opacity var(--transition-normal), visibility var(--transition-normal);
@@ -1366,7 +1366,8 @@ a.info-item-value:hover {
     }
 
     .svg-art-wrapper {
-        max-width: 320px;
+        max-width: 180px;
+        margin:auto;
     }
 
     .skills-grid {
